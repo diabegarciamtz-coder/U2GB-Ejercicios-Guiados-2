@@ -14,24 +14,7 @@ Ejercicios guiados para Estructura de Datos
 
 
 ## Lista encantada humana Java
-<table border="1">
-  <tr>
-    <th>Imagen</th>
-    <th>Descripción</th>
-    <th>Precio</th>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/150" alt="Actividad educativa" width="150"></td>
-    <td style="text-align: right;">right-aligned</td>
-    <td>$1600</td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/150" alt="Otra actividad" width="150"></td>
-    <td style="text-align: right;">right-aligned</td>
-    <td>$1800</td>
-  </tr>
-</table>
-
+<img src="blob:https://web.whatsapp.com/8be44a22-a0d0-4f48-bbf1-0ae3e84b6356" width="200" height="200">
 
 ## Curso Listas Java
 
