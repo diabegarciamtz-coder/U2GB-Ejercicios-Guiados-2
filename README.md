@@ -14,12 +14,9 @@ Ejercicios guiados para Estructura de Datos
 
 
 ## Lista encantada humana Java
-| Imagenes                              |
+| Imagen        |           |   |
 | ------------- |:-------------:| -----:|
-|   <img src="C:\Users\diabe\Documents\GitHub\U2GB-Ejercicios-Guiados-2\Imagen de WhatsApp 2025-10-03 a las 16.04.26_0a921f8f.jpg" alt="Foto" width="300" height="200" />
-   | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| <img src="file:///C:/Users/diabe/Documents/GitHub/U2GB-Ejercicios-Guiados-2/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.04.26_0a921f8f.jpg" alt="Actividad educativa">      | right-aligned | $1600 |
 
 
 ## Curso Listas Java
