@@ -14,8 +14,7 @@ Ejercicios guiados para Estructura de Datos
 
 
 ## Lista encantada humana Java
-
-
+<img src="blob:https://web.whatsapp.com/8be44a22-a0d0-4f48-bbf1-0ae3e84b6356" width="200" height="200">
 
 ## Curso Listas Java
 
