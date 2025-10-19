@@ -3,6 +3,7 @@ Ejercicios guiados para Estructura de Datos. Aquí pondré los códigos profe. I
 
 
 ## Lista enlazada con VisuAlgo
+Este es un PDF.
 
 ## Ejercicios de pila con VisuAlgo
 <img src="[https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.05.06_898dd399.jpg?raw=true](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Pila.jpg?raw=true)" width="200" height="200">
@@ -136,6 +137,7 @@ public class MainStack {
 ```
 
 ## Lista encantada humana Java
+Este es un PDF.
 | Imagen | Vista previa |
 |--------|--------------|
 | Imagen 1 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.05.06_898dd399.jpg?raw=true" width="300" height="300"> |
@@ -144,6 +146,7 @@ public class MainStack {
 | Imagen 4 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.04.26_0a921f8f.jpg?raw=true" width="300" height="300"> |
 
 ## Curso Listas Java
+Este es un PDF.
 
 ## Actividad en clase: listas, listas dobles Java
 
