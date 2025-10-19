@@ -153,3 +153,7 @@ Este es un PDF.
 
 ## Actividad en clase: listas, listas dobles Java
 Este es un PDF.
+| Imagen | Vista previa |
+|--------|--------------|
+| Imagen 1 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana1.jpg?raw=true" width="300" height="300"> |
+| Imagen 2 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true" width="300" height="300"> |
