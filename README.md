@@ -143,9 +143,9 @@ public class MainStack {
 Este es un PDF.
 | Imagen | Vista previa |
 |--------|--------------|
-| Imagen 1 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana1.jpg?raw=true" width="300" height="300"> |
-| Imagen 2 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true" width="300" height="300"> |
-| Imagen 3 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana3.jpg?raw=true" width="300" height="300"> |
+| Lista Encantada Humana 1 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana1.jpg?raw=true" width="300" height="300"> |
+| Lista Encantada Humana 2 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true" width="300" height="300"> |
+| Lista Encantada Humana 3 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana3.jpg?raw=true" width="300" height="300"> |
 
 
 ## Curso Listas Java
@@ -155,5 +155,5 @@ Este es un PDF.
 Este es un PDF.
 | Imagen | Vista previa |
 |--------|--------------|
-| Imagen 1 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Listas%20simples.jpg?raw=true" width="300" height="300"> |
-| Imagen 2 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true" width="300" height="300"> |
+| Imagen: Listas simples | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Listas%20simples.jpg?raw=true" width="300" height="400"> |
+| Imagen: Listas simples y dobles | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Listas%20simples%20%20y%20dobles.jpg?raw=true" width="300" height="400"> |
