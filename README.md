@@ -8,7 +8,7 @@ Este es un PDF.
 ## Ejercicios de pila con VisuAlgo
 | Imagen | Vista previa |
 |--------|--------------|
-| Imagen 1 | <img src="[[https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.05.06_898dd399.jpg?raw=true](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Pila.jpg?raw=true)](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Pila.jpg?raw=true)" width="200" height="200"> |
+| Imagen 1 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Pila.jpg?raw=true" width="200" height="200"> |
 
 
 ## Especificaciones de pila
