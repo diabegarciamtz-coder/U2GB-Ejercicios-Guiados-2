@@ -149,5 +149,4 @@ Este es un PDF.
 Este es un PDF.
 
 ## Actividad en clase: listas, listas dobles Java
-
-## Listas dobles
+Este es un PDF.
