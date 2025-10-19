@@ -157,3 +157,29 @@ Este es un PDF.
 |--------|--------------|
 | Imagen: Listas simples | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Listas%20simples.jpg?raw=true" width="300" height="400"> |
 | Imagen: Listas simples y dobles | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Listas%20simples%20%20y%20dobles.jpg?raw=true" width="300" height="400"> |
+
+### Pseudocódigo
+1. Crear nuevo nodo
+2. Acceder a cabeza
+3. Verificar que la referencia no sea nula en ambas direcciones
+4. Insertar el nuevo nodo uniendolo al anterior (doble referencia)
+```
+FUNCIÓN Insertar()
+    temp = cabeza
+    MIENTRAS (temp.derecha != nulo) 
+        temp <- temp.derecha
+    FIN MIENTRAS
+            temp.derecha <- Nodo(datos)
+            temp.derecha.izquierda = temp
+FIN FUNCIÓN
+```
+
+```
+FUNCIÓN Recorrer()
+    temp = cabeza
+    MIENTRAS (temp.derecha != nulo) 
+        temp <- temp.derecha
+        Imprimir temp
+    FIN MIENTRAS
+FIN FUNCIÓN
+```
