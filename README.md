@@ -144,7 +144,7 @@ Este es un PDF.
 | Imagen | Vista previa |
 |--------|--------------|
 | Imagen 1 | <img src="[https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.05.06_898dd399.jpg?raw=true](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana1.jpg?raw=true)" width="300" height="300"> |
-| Imagen 2 | <img src="[https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Imagen%20de%20WhatsApp%202025-10-03%20a%20las%2016.05.03_caa70b7c.jpg?raw=true](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true)" width="300" height="300"> |
+| Imagen 2 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true" width="300" height="300"> |
 | Imagen 3 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana3.jpg?raw=true" width="300" height="300"> |
 
 
