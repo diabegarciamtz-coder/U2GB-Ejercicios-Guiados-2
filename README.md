@@ -10,8 +10,6 @@ Ejercicios guiados para Estructura de Datos. Aquí pondré los códigos profe. I
 | **Actividad en clase: listas, listas dobles Java** | `📄 PDF` | Actividades prácticas de listas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Actividad%20en%20clase%20listas%2C%20listas%20dobles%20Java.pdf) |
 | **Lista encantada humana Java** | `📄 PDF` | Ejercicio especial de lista encantada | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana%20en%20Java.pdf) |
 
-## Lista enlazada con VisuAlgo
-Este es un PDF.
 
 ## Ejercicios de pila con VisuAlgo
 | Imagen | Vista previa |
@@ -155,9 +153,6 @@ Este es un PDF.
 | Lista Encantada Humana 2 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana2.jpg?raw=true" width="300" height="300"> |
 | Lista Encantada Humana 3 | <img src="https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana3.jpg?raw=true" width="300" height="300"> |
 
-
-## Curso Listas Java
-Este es un PDF.
 
 ## Actividad en clase: listas, listas dobles Java
 Este es un PDF.
