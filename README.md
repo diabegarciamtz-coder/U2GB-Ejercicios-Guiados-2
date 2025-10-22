@@ -3,10 +3,10 @@ Ejercicios guiados para Estructura de Datos. Aquí pondré los códigos profe. I
 
 ##  Tabla de Contenidos
 
-| Documento | Tipo | Descripción | Enlace |
+| Documento | Tipo | Descripción | Ver PDF |
 |-----------|------|-------------|---------|
 | **Lista enlazada con VisuAlgo** | `📄 PDF` | Ejercicios de listas enlazadas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/raw/main/Lista%20enlazada%20con%20VisuAlgo.pdf) |
-| **Curso Listas Java** | `📄 PDF` | Curso completo sobre listas en Java | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/raw/main/Curso%20Listas%20Java.pdf)|
+| **Curso Listas Java** | `📄 PDF` | Curso completo sobre listas en Java | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/dc4b62ab706778e21e997f26bcb808acfb092cdd/Curso%20Listas%20Java.pdf)|
 | **Actividad en clase: listas, listas dobles Java** | `📄 PDF` | Actividades prácticas de listas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/raw/main/Actividad%20en%20clase%20listas%2C%20listas%20dobles%20Java.pdf) |
 | **Lista encantada humana Java** | `📄 PDF` | Ejercicio especial de lista encantada | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/raw/main/Lista%20encantada%20humana%20Java.pdf) |
 
