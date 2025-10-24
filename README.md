@@ -9,7 +9,7 @@ Ejercicios guiados para Estructura de Datos. Aquí pondré los códigos profe. I
 | **Pila con VisuAlgo** | `📄 PDF` | Ejercicios de pilas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ejercicios%20de%20Pila%20con%20VisuAlgo.pdf) |
 | **Curso Listas Java** | `📄 PDF` | Curso completo sobre listas en Java | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/dc4b62ab706778e21e997f26bcb808acfb092cdd/Curso%20Listas%20Java.pdf)|
 | **Curso Colas** | `📄 PDF` | Curso Colas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Colas.pdf) |
-| **Curso Listas y Pilas** | `📄 PDF` | Curso Colas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Listas%20y%20Pilas.pdf) |
+| **Curso Listas y Pilas** | `📄 PDF` | Curso Listas y Pilas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Listas%20y%20Pilas.pdf) |
 | **Actividad en clase: listas, listas dobles Java** | `📄 PDF` | Actividades prácticas de listas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Actividad%20en%20clase%20listas%2C%20listas%20dobles%20Java.pdf) |
 | **Lista encantada humana Java** | `📄 PDF` | Ejercicio especial de lista encantada | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana%20en%20Java.pdf) |
 | **Pila con VisuAlgo** | `📄 PDF` | Ejercicios de pilas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ejercicios%20de%20Pila%20con%20VisuAlgo.pdf) |
