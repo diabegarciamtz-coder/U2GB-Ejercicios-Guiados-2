@@ -12,6 +12,8 @@ Ejercicios guiados para Estructura de Datos. Aquí pondré los códigos profe. I
 | **Curso Listas y Pilas** | `📄 PDF` | Curso Listas y Pilas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Listas%20y%20Pilas.pdf) |
 | **Actividad en clase: listas, listas dobles Java** | `📄 PDF` | Actividades prácticas de listas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Actividad%20en%20clase%20listas%2C%20listas%20dobles%20Java.pdf) |
 | **Lista encantada humana Java** | `📄 PDF` | Ejercicio especial de lista encantada | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana%20en%20Java.pdf) |
+| **Actividad en clase: Ordenamiento Burbuja** | `📄 PDF` | Ordenamiento Burbuja | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ordenamiento%20Burbuja%20.pdf) |
+https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ordenamiento%20Burbuja%20.pdf
 
 
 
