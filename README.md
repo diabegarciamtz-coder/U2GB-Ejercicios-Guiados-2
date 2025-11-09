@@ -6,13 +6,21 @@ Ejercicios guiados para Estructura de Datos. Aquí pondré los códigos profe. I
 | Documento | Tipo | Descripción | Ver PDF |
 |-----------|------|-------------|---------|
 | **Lista enlazada con VisuAlgo** | `📄 PDF` | Ejercicios de listas enlazadas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ejercicio%20de%20Lista%20Enlazada%20Simple%20con%20VisualAlgo.pdf) |
+
 | **Pila con VisuAlgo** | `📄 PDF` | Ejercicios de pilas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ejercicios%20de%20Pila%20con%20VisuAlgo.pdf) |
+
 | **Curso Listas Java** | `📄 PDF` | Curso completo sobre listas en Java | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/dc4b62ab706778e21e997f26bcb808acfb092cdd/Curso%20Listas%20Java.pdf)|
+
 | **Curso Colas** | `📄 PDF` | Curso Colas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Colas.pdf) |
-| **Curso Algortimos de ordenacion y busqueda** | `📄 PDF` | Algortimos de ordenacion y busqueda | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Listas%20y%20Pilas.pdf) |
+
 | **Curso Listas y Pilas** | `📄 PDF` | Curso Listas y Pilas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Algoritmos%20de%20ordenaci%C3%B3n%20y%20b%C3%BAsqueda.pdf) |
+
+| **Curso Algortimos de ordenacion y busqueda** | `📄 PDF` | Algortimos de ordenacion y busqueda | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Curso%20Listas%20y%20Pilas.pdf) |
+
 | **Actividad en clase: listas, listas dobles Java** | `📄 PDF` | Actividades prácticas de listas | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Actividad%20en%20clase%20listas%2C%20listas%20dobles%20Java.pdf) |
+
 | **Lista encantada humana Java** | `📄 PDF` | Ejercicio especial de lista encantada | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Lista%20Encantada%20Humana%20en%20Java.pdf) |
+
 | **Actividad en clase: Ordenamiento Burbuja** | `📄 PDF` | Ordenamiento Burbuja | [Ver PDF](https://github.com/diabegarciamtz-coder/U2GB-Ejercicios-Guiados-2/blob/main/Ordenamiento%20Burbuja%20.pdf) |
 
 
